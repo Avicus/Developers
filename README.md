@@ -92,10 +92,15 @@ final List<String> filtered = new ArrayList<>();
 
 ## Development Environment
 
-* We <3 [Jetbrains](https://www.jetbrains.com/) products, including [IntelliJ IDEA](https://www.jetbrains.com/idea/). If you don't use it, give it a shot. Other Jetbrains products we use include:
+* We :heart: [Jetbrains](https://www.jetbrains.com/) products, including [IntelliJ IDEA](https://www.jetbrains.com/idea/). If you don't use it, give it a shot. Other Jetbrains products we use include:
   * [Rubymine](https://jetbrains.com/rubymine) for website development.
   * [DataGrip](https://www.jetbrains.com/datagrip/) for SQL database work.
 * Any operating system is acceptable, though Windows can be a hassle at times when working with a number of our tools (Maven, Github/SSH).
 * Latest [Maven](https://maven.apache.org/docs/history.html) (3.3.9) for software project and library management.
 * [Git](https://git-scm.com/) for version control. Our repository is hosted by [Github](https://github.com/Avicus).
 
+***Work in progress***
+
+## Deployment
+
+***Work in progress***
