@@ -16,25 +16,26 @@ We follow Google's [Java Style Guide](http://google.github.io/styleguide/javagui
 
 * [4.1.1](http://google.github.io/styleguide/javaguide.html#s4.1.1-braces-always-used) - 
   Braces are used with `if`, `else`, `for`, `do` and `while` statements, except when the body contains a single statement and there is no following statement that has multiple statements in its body.
-
-    ```java
-    if (condition())
-        return true;
     
-    if (condition()) {
-        return true;
-    }
-    else if (otherCondition()) {
-        // multiple statements here, so braces everywhere.
-        int i = 0;
-        return true;
-    }
-    
-    // no braces, since all the statements have single-lined bodies.
-    if (condition())
-        return true;
-    else if (otherCondition())
-        return true;
+  ```java
+  if (condition())
+      return true;
+  
+  if (condition()) {
+      return true;
+  }
+  else if (otherCondition()) {
+      // multiple statements here, so braces everywhere.
+      int i = 0;
+      return true;
+  }
+  
+  // no braces, since all the statements have single-lined bodies.
+  if (condition())
+      return true;
+  else if (otherCondition())
+      return true;
+  ```
 
 * [4.1.2](http://google.github.io/styleguide/javaguide.html#s4.1.2-blocks-k-r-style) -
   Line breaks after the closing brace _except_ prior to `catch` clauses.
