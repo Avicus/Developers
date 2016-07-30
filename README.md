@@ -116,4 +116,4 @@ If you are interested in becoming a developer on the Avicus Network, do so by se
 
 Your application may be shared with other developers and admins on the network.
 
-* We do not currently offer paid positions. All positions on the network are volunteer until further notice.  
+\* We do not currently offer paid positions. All positions on the network are volunteer until further notice.  
