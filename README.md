@@ -104,8 +104,16 @@ final List<String> filtered = new ArrayList<>();
 * Latest [Maven](https://maven.apache.org/docs/history.html) (3.3.9) for software project and library management.
 * [Git](https://git-scm.com/) for version control. Our repository is hosted by [Github](https://github.com/Avicus).
 
-***Work in progress***
 
-## Deployment
+## Application
 
-***Work in progress***
+If you are interested in becoming a developer on the Avicus Network, do so by sending an email to [keenan@avicus.net](keenan@avicus.net) that addresses the following information (in any style you wish):
+
+* Your full name, what you would like to be called (nickname?) and your age
+* Details about your experience with the following languages and technologies: Java, Ruby, Ruby on Rails, HTML/CSS, SQL Databases, Redis, continuous integration (Jenkins), bash/SSH, Git (or Subversion) and Maven
+* Links to projects of which you have contributed (open source Github projects, or private projects you wish to share with us)
+* Why you are interested in joining our team
+
+Your application may be shared with other developers and admins on the network.
+
+
