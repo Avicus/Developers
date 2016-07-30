@@ -1,6 +1,7 @@
 # Avicus Developers
 
 So you want to be an Avicus developer? Follow these easy steps!
+
 * Learn Avicus coding style.
 * Discover how we go from development to deployment.
 * ????
@@ -48,7 +49,8 @@ We follow Google's [Java Style Guide](http://google.github.io/styleguide/javagui
   };
   
   return new MyClass() {
-      @Override public void method() {
+      @Override 
+      public void method() {
           if (condition()) {
               try {
                   something();
@@ -68,6 +70,9 @@ We follow Google's [Java Style Guide](http://google.github.io/styleguide/javagui
 
 * [4.2](http://google.github.io/styleguide/javaguide.html#s4.2-block-indentation) -
   Use 4 spaces (until further notice).
+
+* [4.8.5](https://google.github.io/styleguide/javaguide.html#s4.8.5-annotations) - 
+  Field annotations should be on the same line (exceptions may be made when there are two or more annotations on the same field). Method annotations should always be on a separate line.
 
 Google's style guide makes no comment in regards to Java 8 [streams](https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html). They are acceptable in most cases, as long as they are made readable. Use line breaks. Please.
  
