@@ -5,7 +5,7 @@ So you want to be an Avicus developer? Follow these easy steps!
 * Learn Avicus coding style.
 * Discover how we go from development to deployment.
 * ????
-* Profit!
+* Profit!*
 
 In all seriousness, I (and hopefully the rest of the team) expect developers to follow what is documented here. By most accounts, this simply reiterates clean and proper Java programming, good developer practices and more.
 
@@ -116,4 +116,4 @@ If you are interested in becoming a developer on the Avicus Network, do so by se
 
 Your application may be shared with other developers and admins on the network.
 
-
+* We do not currently offer paid positions. All positions on the network are volunteer until further notice.  
