@@ -107,7 +107,7 @@ final List<String> filtered = new ArrayList<>();
 
 ## Application
 
-If you are interested in becoming a developer on the Avicus Network, do so by sending an email to [keenan@avicus.net](keenan@avicus.net) that addresses the following information (in any style you wish):
+If you are interested in becoming a developer on the Avicus Network, do so by sending an email to [keenan@avicus.net](mailto:keenan@avicus.net) that addresses the following information (in any style you wish):
 
 * Your full name, what you would like to be called (nickname?) and your age
 * Details about your experience with the following languages and technologies: Java, Ruby, Ruby on Rails, HTML/CSS, SQL Databases, Redis, continuous integration (Jenkins), bash/SSH, Git (or Subversion) and Maven
